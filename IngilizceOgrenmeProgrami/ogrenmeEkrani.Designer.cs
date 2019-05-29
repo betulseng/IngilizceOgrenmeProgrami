@@ -38,6 +38,7 @@
 			this.lblIngCumle = new MetroFramework.Controls.MetroLabel();
 			this.lblTrKelime = new MetroFramework.Controls.MetroLabel();
 			this.lblIngKelime = new MetroFramework.Controls.MetroLabel();
+			this.tileOgrendim = new MetroFramework.Controls.MetroTile();
 			this.SuspendLayout();
 			// 
 			// metroLabel1
@@ -131,11 +132,24 @@
 			this.lblIngKelime.TabIndex = 5;
 			this.lblIngKelime.Text = "İngilizce Kelime:";
 			// 
+			// tileOgrendim
+			// 
+			this.tileOgrendim.ActiveControl = null;
+			this.tileOgrendim.Location = new System.Drawing.Point(157, 251);
+			this.tileOgrendim.Name = "tileOgrendim";
+			this.tileOgrendim.Size = new System.Drawing.Size(194, 38);
+			this.tileOgrendim.TabIndex = 10;
+			this.tileOgrendim.Text = "Öğrendim!";
+			this.tileOgrendim.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+			this.tileOgrendim.UseSelectable = true;
+			this.tileOgrendim.Click += new System.EventHandler(this.tileOgrendim_Click);
+			// 
 			// ogrenmeEkrani
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.ClientSize = new System.Drawing.Size(551, 312);
+			this.Controls.Add(this.tileOgrendim);
 			this.Controls.Add(this.lblKelimeTuru);
 			this.Controls.Add(this.lblTrCumle);
 			this.Controls.Add(this.lblIngCumle);
@@ -166,5 +180,6 @@
 		private MetroFramework.Controls.MetroLabel lblIngCumle;
 		private MetroFramework.Controls.MetroLabel lblTrKelime;
 		private MetroFramework.Controls.MetroLabel lblIngKelime;
+		private MetroFramework.Controls.MetroTile tileOgrendim;
 	}
 }

@@ -50,5 +50,10 @@ namespace IngilizceOgrenmeProgrami
 		{
 
 		}
+
+		private void tileOgrendim_Click(object sender, EventArgs e)
+		{
+			this.Close();
+		}
 	}
 }
