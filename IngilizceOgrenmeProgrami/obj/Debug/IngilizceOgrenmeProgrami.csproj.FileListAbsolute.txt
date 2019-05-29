@@ -1,0 +1,16 @@
+C:\Users\Ayşe Nur BAKIRCI\source\repos\IngilizceOgrenmeProgrami\IngilizceOgrenmeProgrami\bin\Debug\IngilizceOgrenmeProgrami.exe.config
+C:\Users\Ayşe Nur BAKIRCI\source\repos\IngilizceOgrenmeProgrami\IngilizceOgrenmeProgrami\bin\Debug\IngilizceOgrenmeProgrami.exe
+C:\Users\Ayşe Nur BAKIRCI\source\repos\IngilizceOgrenmeProgrami\IngilizceOgrenmeProgrami\bin\Debug\IngilizceOgrenmeProgrami.pdb
+C:\Users\Ayşe Nur BAKIRCI\source\repos\IngilizceOgrenmeProgrami\IngilizceOgrenmeProgrami\bin\Debug\MetroFramework.Design.dll
+C:\Users\Ayşe Nur BAKIRCI\source\repos\IngilizceOgrenmeProgrami\IngilizceOgrenmeProgrami\bin\Debug\MetroFramework.dll
+C:\Users\Ayşe Nur BAKIRCI\source\repos\IngilizceOgrenmeProgrami\IngilizceOgrenmeProgrami\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Ayşe Nur BAKIRCI\source\repos\IngilizceOgrenmeProgrami\IngilizceOgrenmeProgrami\obj\Debug\IngilizceOgrenmeProgrami.csprojAssemblyReference.cache
+C:\Users\Ayşe Nur BAKIRCI\source\repos\IngilizceOgrenmeProgrami\IngilizceOgrenmeProgrami\obj\Debug\IngilizceOgrenmeProgrami.anaEkran.resources
+C:\Users\Ayşe Nur BAKIRCI\source\repos\IngilizceOgrenmeProgrami\IngilizceOgrenmeProgrami\obj\Debug\IngilizceOgrenmeProgrami.Properties.Resources.resources
+C:\Users\Ayşe Nur BAKIRCI\source\repos\IngilizceOgrenmeProgrami\IngilizceOgrenmeProgrami\obj\Debug\IngilizceOgrenmeProgrami.csproj.GenerateResource.cache
+C:\Users\Ayşe Nur BAKIRCI\source\repos\IngilizceOgrenmeProgrami\IngilizceOgrenmeProgrami\obj\Debug\IngilizceOgrenmeProgrami.csproj.CoreCompileInputs.cache
+C:\Users\Ayşe Nur BAKIRCI\source\repos\IngilizceOgrenmeProgrami\IngilizceOgrenmeProgrami\obj\Debug\IngilizceOgrenmeProgrami.csproj.CopyComplete
+C:\Users\Ayşe Nur BAKIRCI\source\repos\IngilizceOgrenmeProgrami\IngilizceOgrenmeProgrami\obj\Debug\IngilizceOgrenmeProgrami.exe
+C:\Users\Ayşe Nur BAKIRCI\source\repos\IngilizceOgrenmeProgrami\IngilizceOgrenmeProgrami\obj\Debug\IngilizceOgrenmeProgrami.pdb
+C:\Users\Ayşe Nur BAKIRCI\source\repos\IngilizceOgrenmeProgrami\IngilizceOgrenmeProgrami\obj\Debug\IngilizceOgrenmeProgrami.ogrenmeEkrani.resources
+C:\Users\Ayşe Nur BAKIRCI\source\repos\IngilizceOgrenmeProgrami\IngilizceOgrenmeProgrami\obj\Debug\IngilizceOgrenmeProgrami.Istatistikler.resources
